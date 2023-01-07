@@ -21,9 +21,9 @@ Here are some ideas to get you started:
    - Make daily reports
 #### 2. [Core Initiative](https://coreinitiative.id) | FrontEnd Dev (Internship) | `Nov'2022-`Dec'2022
      - Deepen knowledge in the Javascript programming language, Vue framework, CI/CD Tools such as Docker, 
-       Unit Testing using Jest, and Deployments. 
+       Unit Testing using Jest, and Deployments
      - Studying soft skills related to developers to become a Frontend expert role.
-#### 2. [Dinas Pendidikan Kota Palembang](http://portal.disdik.palembang.go.id/about) | Student Intern | Palembang `Jul'2022-`Oct'2022
+#### 3. [Dinas Pendidikan Kota Palembang](http://portal.disdik.palembang.go.id/about) | Student Intern | Palembang `Jul'2022-`Oct'2022
    - In charge of monitoring and managing data on BOS Funding Assistance for SD SMP Palembang city.
 ---
 
