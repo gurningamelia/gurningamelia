@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: ameliagurning90@gmail.com
 - 😄 Pronouns: she/her
--->
+
 ## Education:
 
 #### 1. [Politeknik Negeri Sriwijaya](https://www.polsri.ac.id) | Diploma of Informatic Management | Palembang `2019-2022
@@ -20,7 +20,8 @@ Here are some ideas to get you started:
    - Check participant cheating during online tests
    - Make daily reports
 #### 2. [Core Initiative](https://coreinitiative.id) | FrontEnd Dev (Internship) | `Nov'2022-`Dec'2022
-     - Deepen knowledge in the Javascript programming language, Vue framework, CI/CD Tools such as Docker, Unit Testing using Jest, and Deployments. 
+     - Deepen knowledge in the Javascript programming language, Vue framework, CI/CD Tools such as Docker, 
+       Unit Testing using Jest, and Deployments. 
      - Studying soft skills related to developers to become a Frontend expert role.
 #### 2. [Dinas Pendidikan Kota Palembang](http://portal.disdik.palembang.go.id/about) | Student Intern | Palembang `Jul'2022-`Oct'2022
    - In charge of monitoring and managing data on BOS Funding Assistance for SD SMP Palembang city.
@@ -40,8 +41,8 @@ Here are some ideas to get you started:
 ---
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/amelia-gurning#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/amelia-gurning#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/amelia-gurning-7b39a3203#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/amelia-gurning-7b39a3203#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/ameel.db#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/ameel.db#gh-dark-mode-only)
