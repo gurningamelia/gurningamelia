@@ -14,15 +14,16 @@ Here are some ideas to get you started:
 #### 1. [Politeknik Negeri Sriwijaya](https://www.polsri.ac.id) | Diploma of Informatic Management | Palembang `2019-2022
 #### 2. [SMA N 22 Palembang](https://www.sman22plg.sch.id) | IPA | Palembang `2016-2019`
    
+
 ## Work Experience:
 #### 1. [PT. Infomedia Nusantara](https://www.infomedia.co.id) | Screening Team (Intership) | `Jan'2023 - Now`
    - Check the completeness of job applicant data
    - Check participant cheating during online tests
    - Make daily reports
 #### 2. [Core Initiative](https://coreinitiative.id) | FrontEnd Dev (Internship) | `Nov'2022-`Dec'2022
-     - Deepen knowledge in the Javascript programming language, Vue framework, CI/CD Tools such as Docker, 
-       Unit Testing using Jest, and Deployments
-     - Studying soft skills related to developers to become a Frontend expert role.
+   - Deepen knowledge in the Javascript programming language, Vue framework, CI/CD Tools such as Docker, 
+     Unit Testing using Jest, and Deployments
+   - Studying soft skills related to developers to become a Frontend expert role.
 #### 3. [Dinas Pendidikan Kota Palembang](http://portal.disdik.palembang.go.id/about) | Student Intern | Palembang `Jul'2022-`Oct'2022
    - In charge of monitoring and managing data on BOS Funding Assistance for SD SMP Palembang city.
 ---
